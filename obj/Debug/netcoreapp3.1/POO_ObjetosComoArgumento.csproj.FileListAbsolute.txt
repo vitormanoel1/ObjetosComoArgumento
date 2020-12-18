@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\bin\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.exe
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\bin\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.deps.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\bin\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.runtimeconfig.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\bin\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.runtimeconfig.dev.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\bin\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\bin\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\obj\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\obj\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\obj\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.AssemblyInfo.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\obj\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\obj\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\obj\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\ObjetosComoArgumento\obj\Debug\netcoreapp3.1\POO_ObjetosComoArgumento.genruntimeconfig.cache
